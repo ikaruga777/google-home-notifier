@@ -18,6 +18,7 @@
     "castv2-client": "^1.1.2",
     "express": "^4.14.0",
     "google-tts-api": "https://github.com/darrencruse/google-tts/tarball/british-voice",
+    "mdns-js": "^1.0.1",
     "ngrok": "^2.2.4"
   }
 }
